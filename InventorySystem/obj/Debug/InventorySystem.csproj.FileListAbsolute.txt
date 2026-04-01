@@ -1,0 +1,7 @@
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Shine\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
